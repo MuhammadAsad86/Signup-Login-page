@@ -1,4 +1,42 @@
-<img width="414" height="383" alt="image" src="https://github.com/user-attachments/assets/7427baf5-77b6-4009-b1ee-d906170486b5" />
-<img width="579" height="336" alt="image" src="https://github.com/user-attachments/assets/54540046-79a6-4843-8e40-6ce25ca16184" />
+# Signup / Login Page
 
+A responsive signup and login page UI built with HTML and CSS, practicing authentication form design and styling.
 
+🔗 **Live Demo:** [https://muhammadasad86.github.io/Signup-Login-page/](https://muhammadasad86.github.io/Signup-Login-page/)
+
+## Overview
+
+This project recreates common signup and login screens, focusing on clean form layout, input styling, and a polished authentication UI.
+
+## Features
+
+- Signup form with input fields
+- Login form with input fields
+- Styled buttons and form elements
+- Responsive layout
+
+## Tech Stack
+
+- **HTML5** — page structure
+- **CSS3** — styling and layout
+
+## What I Learned
+
+- Designing clean, user-friendly authentication form UIs
+- Styling form inputs, labels, and buttons consistently
+- Structuring a responsive signup/login layout
+
+## Getting Started
+
+Clone the repo and open `index.html` in your browser — no build steps required:
+
+```bash
+git clone https://github.com/MuhammadAsad86/Signup-Login-page.git
+cd Signup-Login-page
+open index.html
+```
+
+## Author
+
+**Muhammad Asad**
+- GitHub: [@MuhammadAsad86](https://github.com/MuhammadAsad86)
